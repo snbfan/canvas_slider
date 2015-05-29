@@ -1,5 +1,5 @@
-# canvas_scroll
-Image Scroller in canvas element
+# canvas_slider
+Image Slider in canvas element
 
 The Task
 
